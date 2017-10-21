@@ -1,0 +1,29 @@
+.tittle h1{
+	text-align: left;
+	font-size: 30px;
+}
+.tittle hr{
+	margin-left: 0px;
+	width: 130px;
+	height: 5px;
+	background-color: black;
+	color: black;
+}
+.img{
+	width: 100%;
+	
+}
+
+.images img{
+	border-radius: 8px;
+	width:100;
+	height: auto;
+	
+}
+
+.images p {
+	position: relative;
+	color: white;
+	bottom: 50px;
+	text-align: right;
+}
